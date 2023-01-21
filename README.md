@@ -11,4 +11,4 @@ Those numbers for which this process ends in 1 are happy.
 Return true if n is a happy number, and false if not.
 
 ## Language
-Java 12
+Java 17
